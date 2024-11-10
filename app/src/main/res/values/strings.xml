@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name" translatable="false">Calculo_superficies</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="sqaure">Square</string>
+    <string name="oval">Oval</string>
+    <string name="Circle">Circle</string>
+    <string name="triangle">Triangle</string>
+    <string name="rhombus">Rhombus</string>
+    <string name="pentagon">Pentagon</string>
+    <string name="Hexagon">Hexagon</string>
+    <string name="lblarea">Surface of the</string>
+    <string name="major">Major side</string>
+    <string name="minor">Minor side</string>
+    <string name="details">Enter this details:</string>
+    <string name="delete">DELETE</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="dialog_message">Are you sure?</string>
+    <string name="dialog_negative">No</string>
+    <string name="dialog_positive">Yes</string>
+    <string name="side">Side</string>
+    <string name="major_radius">Major radius</string>
+    <string name="minor_radius">Minor radius</string>
+    <string name="radius">radius</string>
+    <string name="Height">Height</string>
+    <string name="base">Base</string>
+    <string name="major_diagonal">Major diagonal</string>
+    <string name="minor_diagonal">Minor diagonal</string>
+    <string name="apothem">Apothem</string>
+</resources>

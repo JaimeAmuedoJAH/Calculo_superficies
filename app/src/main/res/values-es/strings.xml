@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rectangle">Rectángulo</string>
+    <string name="sqaure">Cuadrado</string>
+    <string name="oval">Óvalo</string>
+    <string name="Circle">Círculo</string>
+    <string name="triangle">Triángulo</string>
+    <string name="rhombus">Rombo</string>
+    <string name="pentagon">Pentágono</string>
+    <string name="Hexagon">Hexágono</string>
+    <string name="lblarea">Superficie del</string>
+    <string name="major">Lado mayor</string>
+    <string name="minor">Lado menor</string>
+    <string name="details">Introduzca estos datos:</string>
+    <string name="delete">BORRAR</string>
+    <string name="calculate">CALCULAR</string>
+    <string name="dialog_message">¿Estás seguro?</string>
+    <string name="dialog_negative">No</string>
+    <string name="dialog_positive">Si</string>
+    <string name="side">Lado</string>
+    <string name="major_radius">Radio mayor</string>
+    <string name="minor_radius">Radio menor</string>
+    <string name="radius">Radio</string>
+    <string name="Height">Altura</string>
+    <string name="base">Base</string>
+    <string name="major_diagonal">Diagonal mayor</string>
+    <string name="minor_diagonal">Diagonal menor</string>
+    <string name="apothem">Apotema</string>
+</resources>
